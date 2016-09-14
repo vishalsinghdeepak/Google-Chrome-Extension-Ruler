@@ -2,7 +2,7 @@
 A simple Google Chrome extension that helps user to measure any arbitary shape on the webpage. It position a ruler control on the webpage to measure elements in pixels
 
 #Introduction
-the extennsion adds a ruler on your mouse which you can use to measure anything on the webpage by clicking/dragging.</br>
+The extennsion adds a ruler on your mouse which you can use to measure anything on the webpage by clicking/dragging.</br>
 
 #Features
 1.Click on the screen to see the dimensions with the grid lines. </br>
